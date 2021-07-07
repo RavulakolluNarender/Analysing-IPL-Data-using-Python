@@ -1,2 +1,2 @@
-# Analysing-IPL-Data-using-Python
-'Analyzing IPL data using Python'.Python is an interpreted, object-oriented, high-level programming language with dynamic semantics. 
+Exploratory Data Analysis - Sports
+Problem : As a sports analysts, find out the most successful teams, players and factors contributing win or loss of a team.
